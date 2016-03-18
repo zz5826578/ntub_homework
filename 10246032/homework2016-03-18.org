@@ -1,0 +1,25 @@
+* 請用 `print` 或 `puts` 方法印出你的名字
+#+BEGIN_SRC ruby
+  print "lambdaTW"
+  puts "lambdaTW"
+#+END_SRC
+* 請問 `print`、`puts` 以及 `p` 這三個方法有什麼差別?
+| function | new line | data type |
+|----------+----------+-----------|
+| print    | nil      | nil       |
+| puts     | T        | nil       |
+| p        | T        | T         |
+* 請用寫一個程式(檔名：loop_test.rb)，使用 `times` 方法印出 5 次的 `I love Ruby` 字樣
+#+INCLUDE: "./loop_test.rb" src ruby
+* 請問下面這段程式碼中，`|f|` 代表什麼意思?
+#+BEGIN_SRC ruby
+  friends = ['aa', 'bb', 'cc']
+  friends.each do |f|
+    puts f
+  end
+#+END_SRC
+`|f|` 為一區域變數，其值取於前面函數每次迭代所回傳的值
+* 請用 Ruby 程式碼寫出「從 1 到 100 數字中，隨機取出 5 個不重複的數字」
+#+BEGIN_SRC ruby
+  (1..100).to_a.shuffle[0..4]
+#+END_SRC
