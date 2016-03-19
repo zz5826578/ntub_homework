@@ -6,8 +6,8 @@
 
 ## 注意事項
 
-1. 作業繳交均以 Pull Request (PR) 方式繳交。
-2. 如果你的學號不在這個列表，或是對分數有疑惑，請來信跟我說 (email = eddie(at)5xruby.tw)。
+1. 作業請以 Pull Request (PR) 方式繳交。
+2. 如果你的學號不在這個列表，或是對分數有疑惑，請直接[新增 issue](https://github.com/kaochenlong/ntub_homework/issues/new)，或是來信跟我說 (email = eddie(at)5xruby.tw)。
 3. 若需要討論作業內容，歡迎大家約時間來公司坐坐。
 
 | 學號      |  3/10  |  3/17  |  3/24  |  3/31  |  4/07  |  4/14  |  4/21  |  4/28  |  5/05  |  5/12  |  5/19  |  5/26  |
