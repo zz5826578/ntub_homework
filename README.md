@@ -10,7 +10,7 @@
    * 超過繳交期限，或是同一次 PR 裡有前次作業。
 2. 請儘量使用 [Markdown](http://daringfireball.net/projects/markdown/) 語法。
 3. 如果你的學號不在這個列表，或是對繳交情況有疑惑，請直接[新增 issue](https://github.com/kaochenlong/ntub_homework/issues/new)討論，或是來信跟我說 (email = eddie(at)5xruby.tw)。
-4. 若需要當面討論內容，歡迎大家約時間來公司(五倍紅寶石)坐坐。
+4. 若需要當面討論內容，歡迎大家約時間來公司([五倍紅寶石](https://5xruby.tw/))坐坐。
 
 ## 繳交情況
 
