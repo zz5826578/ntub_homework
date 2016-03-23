@@ -34,7 +34,7 @@
 | [10246005](https://github.com/OtakuXavier)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246006](https://github.com/taiwanboy)  |   X    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246008](https://github.com/a36love3)  |   X    |        |        |        |        |        |        |        |        |        |        |        |
-| [10246011](https://github.com/lin19960729)  |   O    |        |        |        |        |        |        |        |        |        |        |        |
+| [10246011](https://github.com/lin19960729)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246012](https://github.com/stefsun1126)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246013](https://github.com/10246013)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246017](https://github.com/a9261020)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
@@ -61,5 +61,5 @@
 | [10436031](https://github.com/Lin-Zuyang)  |   O    |        |        |        |        |        |        |        |        |        |        |        |
 | [B1056088](https://github.com/jc-hsu)  |   X    |        |        |        |        |        |        |        |        |        |        |        |
 | [N1036405](https://github.com/silvia0223y)  |   X    |        |        |        |        |        |        |        |        |        |        |        |
-| a10246037 |   X    |        |        |        |        |        |        |        |        |        |        |        |
+| a10246037 |   X    |   O    |        |        |        |        |        |        |        |        |        |        |
 
