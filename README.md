@@ -61,5 +61,5 @@
 | [10436028](https://github.com/Hsiao-Chin-Liang)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10436031](https://github.com/Lin-Zuyang)  |   O    |   X    |        |        |        |        |        |        |        |        |        |        |
 | [B1056088](https://github.com/jc-hsu)  |   X    |   X    |        |        |        |        |        |        |        |        |        |        |
-| [N1036405](https://github.com/silvia0223y)  |   X    |   △    |        |        |        |        |        |        |        |        |        |        |
+| [N1036405](https://github.com/silvia0223y)  |   X    |   O    |        |        |        |        |        |        |        |        |        |        |
 
