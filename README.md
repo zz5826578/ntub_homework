@@ -45,6 +45,7 @@
 | [10246023](https://github.com/tsy9005)  |   O    |   X    |        |        |        |        |        |        |        |        |        |        |
 | [10246024](https://github.com/k19953014)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246026](https://github.com/tim64195419)  |   O    |   X    |        |        |        |        |        |        |        |        |        |        |
+| [10246027](https://github.com/s033742458)  |   X    |   X    |        |        |        |        |        |        |        |        |        |        |
 | [10246028](https://github.com/ntub10246028)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246032](https://github.com/lambdaTW)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | 10246033  |   O    |   X    |        |        |        |        |        |        |        |        |        |        |
