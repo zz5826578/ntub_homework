@@ -28,10 +28,10 @@
 | 10146034  |   X    |   X    |        |        |        |        |        |        |        |        |        |        |
 | [10146037](https://github.com/a31011andy)  |   X    |   O    |        |        |        |        |        |        |        |        |        |        |
 | 10146049  |   O    |   X    |        |        |        |        |        |        |        |        |        |        |
-| [10246001](https://github.com/Lai10)  |   O    |   O    |   △    |        |        |        |        |        |        |        |        |        |
+| [10246001](https://github.com/Lai10)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
 | [10246002](https://github.com/fanyaping)  |   O    |   O    |    O   |        |        |        |        |        |        |        |        |        |
 | [10246004](https://github.com/Casky1108)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
-| [10246005](https://github.com/OtakuXavier)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
+| [10246005](https://github.com/OtakuXavier)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
 | [10246006](https://github.com/taiwanboy)  |   X    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246008](https://github.com/a36love3)  |   X    |   X    |        |        |        |        |        |        |        |        |        |        |
 | [10246011](https://github.com/lin19960729)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
