@@ -1,0 +1,17 @@
+* 作業 003
+- 請寫一段 Ruby 程式，把 `[1, 3, 5, 7, 9]` 變成 `[2, 4, 6, 8, 10]`
+  #+BEGIN_SRC ruby
+    p ([1, 3, 5, 7, 9].map do |n| n += 1 end)
+  #+END_SRC
+- 請印出在 1 到 2000 中，可以被 4 整除，但不能 100 整除，但又要可以被 400 整除的數字。(潤年計算公式)
+  #+BEGIN_SRC ruby
+    p ((1..2000).select do |n|
+      n % 400 == 0 or (n % 4 ==0 and n % 100 != 0)
+    end)
+  #+END_SRC
+- 請印出在 1 到 100 中所有單數的總和。
+  #+BEGIN_SRC ruby
+    p ((1..100).select{|n| n.odd?}.inject(:+))
+  #+END_SRC
+- 請試著解釋什麼是 Symbol。
+  一個指標到記憶體的物件

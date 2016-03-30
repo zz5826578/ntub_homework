@@ -1,0 +1,9 @@
+
+a=[1,3,5,7,9]
+p a.map {|sum| sum+1}
+
+p (1..100).to_a.select {|num| num.odd?}.inject(:+)
+b=(1..2000).to_a
+
+p b.select {|num| (num%4 == 0) and !(num%100 == 0 and num%400 != 0)}
+
