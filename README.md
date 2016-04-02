@@ -49,7 +49,7 @@
 | [10246028](https://github.com/ntub10246028)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
 | [10246032](https://github.com/lambdaTW)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
 | 10246033  |   O    |   X    |    O   |        |        |        |        |        |        |        |        |        |
-| [10246037](https://github.com/withney93) |   X    |   O    |   O    |        |        |        |        |        |        |        |        |        |
+| [10246037](https://github.com/withney93) |   X    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | 10246038  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | 10246039  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | 10246041  |   O    |   X    |   X    |        |        |        |        |        |        |        |        |        |
@@ -60,7 +60,7 @@
 | [10436001](https://github.com/p129894881)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
 | [10436026](https://github.com/artery11348)  |   X    |   O    |   X    |        |        |        |        |        |        |        |        |        |
 | [10436027](https://github.com/s033742458)  |   X    |   X    |   △    |        |        |        |        |        |        |        |        |        |
-| [10436028](https://github.com/Hsiao-Chin-Liang)  |   O    |   O    |   O    |   △    |        |        |        |        |        |        |        |        |
+| [10436028](https://github.com/Hsiao-Chin-Liang)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10436031](https://github.com/Lin-Zuyang)  |   O    |   X    |   O    |   △    |        |        |        |        |        |        |        |        |
 | [B1056088](https://github.com/jc-hsu)  |   X    |   X    |   O    |        |        |        |        |        |        |        |        |        |
 | [N1036405](https://github.com/silvia0223y)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
