@@ -30,11 +30,12 @@
 | 10146049  |   O    |   X    |   X    |        |        |        |        |        |        |        |        |        |
 | [10246001](https://github.com/Lai10)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10246002](https://github.com/fanyaping)  |   O    |   O    |    O   |    O   |        |        |        |        |        |        |        |        |
+| [10246003](https://github.com/r3850355)  |   X    |   X    |    X   |    O   |        |        |        |        |        |        |        |        |
 | [10246004](https://github.com/Casky1108)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
 | [10246005](https://github.com/OtakuXavier)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10246006](https://github.com/taiwanboy)  |   X    |   O    |   △   |    O   |        |        |        |        |        |        |        |        |
 | [10246008](https://github.com/a36love3)  |   X    |   X    |    O   |        |        |        |        |        |        |        |        |        |
-| [10246011](https://github.com/lin19960729)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
+| [10246011](https://github.com/lin19960729)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10246012](https://github.com/stefsun1126)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
 | [10246013](https://github.com/10246013)  |   O    |   O    |    O   |    △   |        |        |        |        |        |        |        |        |
 | [10246017](https://github.com/a9261020)  |   O    |   O    |    O   |        |        |        |        |        |        |        |        |        |
@@ -56,12 +57,12 @@
 | [10246047](https://github.com/afresh30508)  |   X    |   X    |   O    |        |        |        |        |        |        |        |        |        |
 | [10246048](https://github.com/tyu012206)  |   O    |   O    |    O   |    O   |        |        |        |        |        |        |        |        |
 | [10246051](https://github.com/jiaxinxin)  |   O    |   O    |    O   |    O   |        |        |        |        |        |        |        |        |
-| [10246052](https://github.com/zz5826578)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
+| [10246052](https://github.com/zz5826578)  |   O    |   O    |   O    |    △   |        |        |        |        |        |        |        |        |
 | [10436001](https://github.com/p129894881)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
 | [10436026](https://github.com/artery11348)  |   X    |   O    |   X    |        |        |        |        |        |        |        |        |        |
 | [10436027](https://github.com/s033742458)  |   X    |   X    |   △    |        |        |        |        |        |        |        |        |        |
 | [10436028](https://github.com/Hsiao-Chin-Liang)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10436031](https://github.com/Lin-Zuyang)  |   O    |   X    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [B1056088](https://github.com/jc-hsu)  |   X    |   X    |   O    |   △    |        |        |        |        |        |        |        |        |
-| [N1036405](https://github.com/silvia0223y)  |   O    |   O    |   O    |        |        |        |        |        |        |        |        |        |
+| [N1036405](https://github.com/silvia0223y)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [T1003434](https://github.com/telsaiori)  |   X    |   X    |   X    |   O    |        |        |        |        |        |        |        |        |
