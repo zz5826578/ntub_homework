@@ -1,8 +1,8 @@
-no = 1
-File.readlines("homework-2016-03-31-content.txt").each do |f|
-    line = "#{no} #{f}"
-    no += 1
-    File.open("result.txt", "a") do |r|
-        r << line
-    end
+def is_leap_year?(year)
+    (year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0))
+  
 end
+
+puts is_leap_year?(2016)  #=> true
+puts is_leap_year?(2000)  #=> true
+puts is_leap_year?(1900)  #=> false
