@@ -23,6 +23,7 @@
 | --------- |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | [10056037](https://github.com/Kelvin513)  |   X    |   X    |   X    |   X    |        |        |        |        |        |        |        |        |
 | [10056039](https://github.com/michael85731)  |   O    |   O    |   △    |    O   |        |        |        |        |        |        |        |        |
+| [10146003](https://github.com/r3850355)  |   X    |   X    |   X    |    O   |    △   |        |        |        |        |        |        |        |
 | [10146006](https://github.com/benjak135765)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
 | [10146017](https://github.com/zerox12311)  |   O    |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |
 | 10146034  |   X    |   X    |   X    |   X    |        |        |        |        |        |        |        |        |
@@ -63,6 +64,6 @@
 | [10436027](https://github.com/s033742458)  |   X    |   X    |   △    |   X    |        |        |        |        |        |        |        |        |
 | [10436028](https://github.com/Hsiao-Chin-Liang)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10436031](https://github.com/Lin-Zuyang)  |   O    |   X    |   O    |   O    |        |        |        |        |        |        |        |        |
-| [B1056088](https://github.com/jc-hsu)  |   X    |   X    |   O    |   O    |        |        |        |        |        |        |        |        |
+| [B1056088](https://github.com/jc-hsu)  |   X    |   X    |   O    |   O    |    O   |        |        |        |        |        |        |        |
 | [N1036405](https://github.com/silvia0223y)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
-| [T1003434](https://github.com/telsaiori)  |   X    |   X    |   X    |   O    |        |        |        |        |        |        |        |        |
+| [T1003434](https://github.com/telsaiori)  |   X    |   X    |   X    |   O    |    O   |        |        |        |        |        |        |        |
