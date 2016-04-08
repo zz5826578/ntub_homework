@@ -26,4 +26,10 @@ def is_leap_year?(year)
       false
   end
 end
+
+puts is_leap_year?(2016)  #=> true
+puts is_leap_year?(2000)  #=> true
+puts is_leap_year?(1900)  #=> false
+
+
 ```
