@@ -6,7 +6,7 @@
    * Github 帳號尚未設定個人 Avatar。
    * 檔案不是放在個人學號目錄裡。
    * 單次 PR 的 Commit 次數過多，而且每次的 Commit 都只有一點點的修改。
-   * Commit 或 PR 的訊息無意義。
+   * Commit 或 PR 的訊息無意義。10146006
    * 超過繳交期限，或是同一次 PR 裡有前次作業。
    * PR 內含有未處理之 conflict。
 2. 請保留原題目，並儘量使用 [Markdown](http://daringfireball.net/projects/markdown/) 語法。
@@ -24,10 +24,10 @@
 | [10056037](https://github.com/Kelvin513)  |   X    |   X    |   X    |   X    |        |        |        |        |        |        |        |        |
 | [10056039](https://github.com/michael85731)  |   O    |   O    |   △    |    O   |        |        |        |        |        |        |        |        |
 | [10146003](https://github.com/r3850355)  |   X    |   X    |   X    |    O   |    △   |        |        |        |        |        |        |        |
-| [10146006](https://github.com/benjak135765)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
+| [10146006](https://github.com/benjak135765)  |   O    |   O    |   O    |    O   |   O    |        |        |        |        |        |        |        |
 | [10146017](https://github.com/zerox12311)  |   O    |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |
 | 10146034  |   X    |   X    |   X    |   X    |        |        |        |        |        |        |        |        |
-| [10146037](https://github.com/a31011andy)  |   X    |   O    |   O    |   X    |        |        |        |        |        |        |        |        |
+| [10146037](https://github.com/a31011andy)  |   X    |   O    |   O    |   X    |   O   |        |        |        |        |        |        |        |
 | 10146049  |   O    |   X    |   X    |    X   |        |        |        |        |        |        |        |        |
 | [10246001](https://github.com/Lai10)  |   O    |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |
 | [10246002](https://github.com/fanyaping)  |   O    |   O    |    O   |    O   |    O   |        |        |        |        |        |        |        |
@@ -45,8 +45,8 @@
 | [10246021](https://github.com/yulilin)  |   O    |   O    |    O   |    O   |    O   |        |        |        |        |        |        |        |
 | [10246022](https://github.com/w6812763cm)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10246023](https://github.com/tsy9005)  |   O    |   X    |    O   |    △   |        |        |        |        |        |        |        |        |
-| [10246024](https://github.com/k19953014)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
-| [10246026](https://github.com/tim64195419)  |   O    |   X    |   O   |   X    |        |        |        |        |        |        |        |        |
+| [10246024](https://github.com/k19953014)  |   O    |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |
+| [10246026](https://github.com/tim64195419)  |   O    |   X    |   O   |   X    |   O    |        |        |        |        |        |        |        |
 | [10246027](https://github.com/s033742458)  |   X    |   X    |   X    |   X    |        |        |        |        |        |        |        |        |
 | [10246028](https://github.com/ntub10246028)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
 | [10246032](https://github.com/lambdaTW)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
@@ -58,12 +58,12 @@
 | [10246047](https://github.com/afresh30508)  |   X    |   X    |   O    |    O   |        |        |        |        |        |        |        |        |
 | [10246048](https://github.com/tyu012206)  |   O    |   O    |    O   |    O   |    O   |        |        |        |        |        |        |        |
 | [10246051](https://github.com/jiaxinxin)  |   O    |   O    |    O   |    O   |    O   |        |        |        |        |        |        |        |
-| [10246052](https://github.com/zz5826578)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
+| [10246052](https://github.com/zz5826578)  |   O    |   O    |   O    |    O   |    O   |        |        |        |        |        |        |        |
 | [10436001](https://github.com/p129894881)  |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |        |
 | [10436026](https://github.com/artery11348)  |   X    |   O    |   X    |   X    |        |        |        |        |        |        |        |        |
 | [10436027](https://github.com/s033742458)  |   X    |   X    |   △    |   X    |        |        |        |        |        |        |        |        |
-| [10436028](https://github.com/Hsiao-Chin-Liang)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
-| [10436031](https://github.com/Lin-Zuyang)  |   O    |   X    |   O    |   O    |        |        |        |        |        |        |        |        |
+| [10436028](https://github.com/Hsiao-Chin-Liang)  |   O    |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |
+| [10436031](https://github.com/Lin-Zuyang)  |   O    |   X    |   O    |   O    |   O    |        |        |        |        |        |        |        |
 | [B1056088](https://github.com/jc-hsu)  |   X    |   X    |   O    |   O    |    O   |        |        |        |        |        |        |        |
 | [N1036405](https://github.com/silvia0223y)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [T1003434](https://github.com/telsaiori)  |   X    |   X    |   X    |   O    |    O   |        |        |        |        |        |        |        |
