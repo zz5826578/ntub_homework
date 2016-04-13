@@ -22,7 +22,7 @@
 | 學號      |  3/10  |  3/17  |  3/24  |  3/31  |  4/07  |  4/14  |  4/21  |  4/28  |  5/05  |  5/12  |  5/19  |  5/26  |
 | --------- |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | [10056037](https://github.com/Kelvin513)  |   X    |   X    |   X    |   X    |        |        |        |        |        |        |        |        |
-| [10056039](https://github.com/michael85731)  |   O    |   O    |   △    |    O   |        |        |        |        |        |        |        |        |
+| [10056039](https://github.com/michael85731)  |   O    |   O    |   △    |    O   |   O    |        |        |        |        |        |        |        |
 | [10146003](https://github.com/r3850355)  |   X    |   X    |   X    |    O   |    △   |        |        |        |        |        |        |        |
 | [10146006](https://github.com/benjak135765)  |   O    |   O    |   O    |    O   |   O    |        |        |        |        |        |        |        |
 | [10146017](https://github.com/zerox12311)  |   O    |   O    |   O    |   O    |    O   |        |        |        |        |        |        |        |
@@ -39,9 +39,9 @@
 | [10246011](https://github.com/lin19960729)  |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |        |
 | [10246012](https://github.com/stefsun1126)  |   O    |   O    |   O    |    O   |   O    |        |        |        |        |        |        |        |
 | [10246013](https://github.com/10246013)  |   O    |   O    |    O   |    △   |    O   |        |        |        |        |        |        |        |
-| [10246017](https://github.com/a9261020)  |   O    |   O    |    O   |   △    |        |        |        |        |        |        |        |        |
+| [10246017](https://github.com/a9261020)  |   O    |   O    |    O   |   △    |   △    |        |        |        |        |        |        |        |
 | [10246018](https://github.com/shuzhenWu)  |   O    |   O    |   O    |   O    |   O    |        |        |        |        |        |        |        |
-| [10246020](https://github.com/z789000d)  |   O    |   △    |    O   |   X    |        |        |        |        |        |        |        |        |
+| [10246020](https://github.com/z789000d)  |   O    |   △    |    O   |   X    |   O    |        |        |        |        |        |        |        |
 | [10246021](https://github.com/yulilin)  |   O    |   O    |    O   |    O   |    O   |        |        |        |        |        |        |        |
 | [10246022](https://github.com/w6812763cm)  |   O    |   O    |   O    |   O    |    O    |        |        |        |        |        |        |        |
 | [10246023](https://github.com/tsy9005)  |   O    |   X    |    O   |    △   |        |        |        |        |        |        |        |        |
