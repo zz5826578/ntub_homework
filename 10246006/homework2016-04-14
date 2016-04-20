@@ -1,0 +1,87 @@
+1.請完成以下實作練習：
+
+```
+class Animal
+  def sleep
+    puts "ZZZZZZ"
+  end
+  
+  def eat
+    puts "Yammy!"  
+  end
+end
+
+class Cat < Animal; end
+class Dog < Animal; end
+
+kitty = Cat.new
+kitty.sleep     # => "ZZZZZZ"
+
+lucky = Dog.new
+lucky.eat       # => "Yammy!"
+
+```
+
+ 2.請完成以下實作練習：
+ 
+ ```
+ 
+class Cat
+  attr_accessor :age
+  def initialize(age)
+    @age = age
+  end
+end
+
+kitty = Cat.new(10)
+puts kitty.age       # => 10
+kitty.age = 18
+puts kitty.age       # => 18
+
+```
+
+ 3.請完成以下實作練習：
+ 
+ ```
+
+module Flyable
+  def fly
+      puts "I can fly!!"
+  end
+end
+
+class Cat
+  include Flyable
+end
+
+kitty = Cat.new
+kitty.fly         # => "I can fly!!"
+
+```
+
+ 4.請寫一段 Ruby 程式，讓 `puts "hello world".count_character` 可以在畫面上印出 `10`
+
+```
+
+ class String
+     def count_character
+        size = self.delete(" ").split("")
+     return size.size
+    end
+ end
+ 
+ puts "hello world".count_character
+ 
+ ```
+ 
+ 5.請簡述或使用程式碼說明在 Ruby 中 `public`、`protected` 以及 `private` 有何不同?
+ 
+ ```
+ 
+ public：在 Ruby 中，public 還是一樣是公開的意思
+ protected：在 Ruby 中，protected 也有點不同。一個 protected 方法除了可以被一個類別或衍生類別的實例呼叫，也可以讓另一個相同類別的實例來當做接受者。
+ private：在 Ruby，中private 表示只有不指定接受者(receiver)時才可以呼叫
+ 
+ ```
+ 
+ 
