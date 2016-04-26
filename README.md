@@ -64,6 +64,6 @@
 | [10436027](https://github.com/s033742458)  | X | X | △ | X | X | X | | | | | | |
 | [10436028](https://github.com/Hsiao-Chin-Liang)  | O | O | O | O | O | O | O | | | | | |
 | [10436031](https://github.com/Lin-Zuyang)  | O | X | O | O | O | O | | | | | | |
-| [B1056088](https://github.com/jc-hsu)  | X | X | O | O | O | O | △ | | | | | |
+| [B1056088](https://github.com/jc-hsu)  | X | X | O | O | O | O | O | | | | | |
 | [N1036405](https://github.com/silvia0223y)  | O | O | O | O | O | O | | | | | | |
 | [T1003434](https://github.com/telsaiori)  | X | X | X | O | O | O | | | | | | |
