@@ -29,7 +29,7 @@
 | 10146034  | X | X | X | X | X | X | X | | | | | |
 | [10146037](https://github.com/a31011andy)  | X | O | O | X | O | △  | O | | | | | |
 | [10146049](https://github.com/BrookJ)  | O | X | X | X | O | O | O | | | | | |
-| [10246001](https://github.com/Lai10)  | O | O | O | O | O | O | △ | | | | | |
+| [10246001](https://github.com/Lai10)  | O | O | O | O | O | O | O | | | | | |
 | [10246002](https://github.com/fanyaping)  | O | O | O | O | O | O | O | | | | | |
 | [10246003](https://github.com/r3850355)  | X | X | X | O | X | X | X | | | | | |
 | [10246004](https://github.com/Casky1108)  | O | O | O | O | X | △ | X | | | | | |
