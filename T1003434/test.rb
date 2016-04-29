@@ -1,8 +1,26 @@
-def is_leap_year?(year)
-    (year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0))
-  
+class Module
+   def my_attr_accessor(*attrs)
+       attrs.each do |attr|
+           define_method(:"#{attr}") do
+               instance_variable_get(:"@#{attr}")
+           end
+           
+           define_method(:"#{attr}=") do |value|
+               instance_variable_set(:"@#{attr}", value)
+           end
+       end
+   end
+   
 end
 
-puts is_leap_year?(2016)  #=> true
-puts is_leap_year?(2000)  #=> true
-puts is_leap_year?(1900)  #=> false
+
+class Cat
+    my_attr_accessor :age, :name
+end
+
+kitty = Cat.new
+kitty.age = 18
+puts kitty.age   # => 18
+
+kitty.name = "kk"
+puts kitty.name  # => "kk"
