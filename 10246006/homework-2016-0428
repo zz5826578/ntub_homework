@@ -1,0 +1,50 @@
+1.請簡述類別(Class)跟模組(Module)有何不同。
+
+```
+類別比模組多了可以「產生實體」的能力以及「繼承」的能力。
+```
+
+2.請簡述何謂 Meta Programming。
+
+```
+
+class 定義後無法修改，這種運行時可以改變自身結構的特性。
+
+```
+ 
+3.請實作以下程式碼，讓以下程式碼可以正常運作：
+
+```ruby
+ class Object
+   def self.my_attr_reader(name)
+     define_method name do 
+       instance_variable_get(:"@#{name}")
+     end
+   end
+   
+   def self.my_attr_writer(name)
+     define_method("#{name}=") do |v|
+       instance_variable_set(:"@#{name}",v)
+     end
+   end
+   
+    def self.my_attr_accessor(*item)
+     item.each do |name|
+       my_attr_reader(name)
+       my_attr_writer(name)
+     end
+   end
+ end
+ 
+ class Cat
+    my_attr_accessor :age, :name
+ end
+
+ kitty = Cat.new
+ kitty.age = 18
+ puts kitty.age   # => 18
+
+ kitty.name = "kk"
+ puts kitty.name  # => "kk"
+ 
+ ```
