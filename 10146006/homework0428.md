@@ -38,15 +38,10 @@ end
 class Cat 
   my_attr_accessor :age, :name
    
-  def initialize(name,age)
-    @name=name;
-    @age=age;
-  end
-    
 end
 
 
-kitty = Cat.new("ss",12)
+kitty = Cat.new()
 kitty.age = 18
 puts kitty.age   # => 18
 
