@@ -1,0 +1,31 @@
+# 作業 009
+
+1.請寫一 Rake task，執行結果如下：
+
+    $ rake -T
+    rake ntub:homework:upload      # 上傳作業
+    rake sendmail                  # Send Email
+
+    $ rake sendmail
+    Email sent!
+
+    $ rake ntub:homework:upload
+    作業上傳成功!
+    
+---    
+        
+```ruby
+namespace :ntub do
+ namespace :homework do
+ desc "上傳作業"
+  task :upload do
+   puts "作業上傳成功!"
+  end
+ end
+end
+
+desc "Send Email"
+task :sendmail do
+ puts "Email sent!"
+end
+```
