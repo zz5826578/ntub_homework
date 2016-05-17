@@ -33,7 +33,7 @@
 | [10246002](https://github.com/fanyaping)  | O | O | O | O | O | O | O | O | O | | | |
 | [10246003](https://github.com/r3850355)  | X | X | X | O | X | X | X | X | | | | |
 | [10246004](https://github.com/Casky1108)  | O | O | O | O | X | △ | X | X | | | | |
-| [10246005](https://github.com/OtakuXavier)  | O | O | O | O | O | △ | △ | △ | | | | |
+| [10246005](https://github.com/OtakuXavier)  | O | O | O | O | O | △ | △ | △ | O | | | |
 | [10246006](https://github.com/taiwanboy)  | X | O | △ | O | O | O | X | O | | | | |
 | [10246008](https://github.com/a36love3)  | X | X | O | O | O | O | O | △ | | | | |
 | [10246011](https://github.com/lin19960729)  | O | O | O | O | O | O | O | O | | | | |
@@ -49,16 +49,16 @@
 | [10246026](https://github.com/tim64195419)  | O | X | O | X | O | △ | X | O | | | | |
 | [10246027](https://github.com/s033742458)  | X | X | X | X | X | X | X | X | | | | |
 | [10246028](https://github.com/ntub10246028)  | O | O | O | O | O | X | X | X | | | | |
-| [10246032](https://github.com/lambdaTW)  | O | O | O | O | △  | △  | O | O | | | | |
+| [10246032](https://github.com/lambdaTW)  | O | O | O | O | △  | △  | O | O | O | | | |
 | [10246033](https://github.com/louis0630)  | O | X | O | X | O | O | O | X | | | | |
-| [10246037](https://github.com/withney93) | X | O | O | O | X | X | X | X | | | | |
+| [10246037](https://github.com/withney93) | X | O | O | O | X | X | X | X | O | | | |
 | [10246038](https://github.com/zhongyixuan)  | O | O | O | O | O | O | O | O | O | | | |
 | 10246039  | O | O | O | O | O | O | O | O | O | | | |
 | [10246041](https://github.com/x252566)  | O | X | X | X | X | X | X | X | | | | |
 | [10246047](https://github.com/afresh30508)  | X | X | O | O | O | O | O | O | | | | |
 | [10246048](https://github.com/tyu012206)  | O | O | O | O | O | O | O | O | O | | | |
 | [10246051](https://github.com/jiaxinxin)  | O | O | O | O | O | △ | O | O | O | | | |
-| [10246052](https://github.com/zz5826578)  | O | O | O | O | O | O | △ | △ | | | | |
+| [10246052](https://github.com/zz5826578)  | O | O | O | O | O | O | △ | △ | O | | | |
 | [10436001](https://github.com/p129894881)  | O | O | O | O | O | △ | O | △ | O | | | |
 | [10436026](https://github.com/artery11348)  | X | O | X | X | X | X | X | X | | | | |
 | [10436027](https://github.com/s033742458)  | X | X | △ | X | X | X | X | △ | | | | |
