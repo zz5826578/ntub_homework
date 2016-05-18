@@ -21,49 +21,49 @@
 
 | 學號      |  3/10  |  3/17  |  3/24  |  3/31  |  4/07  |  4/14  |  4/21  |  4/28  |  5/12  |  5/19  |  5/26  |  6/2  |
 | --------- |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| [10056037](https://github.com/Kelvin513)  | X | X | X | X | X | X | X | X | | | | |
+| [10056037](https://github.com/Kelvin513)  | X | X | X | X | X | X | X | X | O | | | |
 | [10056039](https://github.com/michael85731)  | O | O | △ | O | O | O | O | O | O | | | |
 | [10146003](https://github.com/r3850355)  | X | X | X | O | △ | O | O | X | △ | | | |
 | [10146006](https://github.com/benjak135765)  | O | O | O | O | O | O | O | O | △ | | | |
 | [10146017](https://github.com/zerox12311)  | O | O | O | O | O | △ | O | △ | O | | | |
-| 10146034  | X | X | X | X | X | X | X | X | | | | |
-| [10146037](https://github.com/a31011andy)  | X | O | O | X | O | △  | O | O | | | | |
-| [10146049](https://github.com/BrookJ)  | O | X | X | X | O | O | O | △ | | | | |
+| 10146034  | X | X | X | X | X | X | X | X | X | | | |
+| [10146037](https://github.com/a31011andy)  | X | O | O | X | O | △  | O | O | X | | | |
+| [10146049](https://github.com/BrookJ)  | O | X | X | X | O | O | O | △ | O | | | |
 | [10246001](https://github.com/Lai10)  | O | O | O | O | O | O | O | O | O | | | |
 | [10246002](https://github.com/fanyaping)  | O | O | O | O | O | O | O | O | O | | | |
-| [10246003](https://github.com/r3850355)  | X | X | X | O | X | X | X | X | | | | |
-| [10246004](https://github.com/Casky1108)  | O | O | O | O | X | △ | X | X | | | | |
+| [10246003](https://github.com/r3850355)  | X | X | X | O | X | X | X | X | X | | | |
+| [10246004](https://github.com/Casky1108)  | O | O | O | O | X | △ | X | X | X | | | |
 | [10246005](https://github.com/OtakuXavier)  | O | O | O | O | O | △ | △ | △ | O | | | |
-| [10246006](https://github.com/taiwanboy)  | X | O | △ | O | O | O | X | O | | | | |
-| [10246008](https://github.com/a36love3)  | X | X | O | O | O | O | O | △ | | | | |
-| [10246011](https://github.com/lin19960729)  | O | O | O | O | O | O | O | O | | | | |
+| [10246006](https://github.com/taiwanboy)  | X | O | △ | O | O | O | X | O | O | | | |
+| [10246008](https://github.com/a36love3)  | X | X | O | O | O | O | O | △ | O | | | |
+| [10246011](https://github.com/lin19960729)  | O | O | O | O | O | O | O | O | O | | | |
 | [10246012](https://github.com/stefsun1126)  | O | O | O | O | O | O | △ | O | O | | | |
-| [10246013](https://github.com/10246013)  | O | O | O | △ | O | △ | X | △ | | | | |
-| [10246017](https://github.com/a9261020)  | O | O | O | △ | △ | X | O | O | | | | |
+| [10246013](https://github.com/10246013)  | O | O | O | △ | O | △ | X | △ | X | | | |
+| [10246017](https://github.com/a9261020)  | O | O | O | △ | △ | X | O | O | X | | | |
 | [10246018](https://github.com/shuzhenWu)  | O | O | O | O | O | O | O | O | O | | | |
-| [10246020](https://github.com/z789000d)  | O | △ | O | X | O | X | X | X | | | | |
+| [10246020](https://github.com/z789000d)  | O | △ | O | X | O | X | X | X | X | | | |
 | [10246021](https://github.com/yulilin)  | O | O | O | O | O | △ | O | O | O | | | |
 | [10246022](https://github.com/w6812763cm)  | O | O | O | O | O | O | O | △ | O | | | |
-| [10246023](https://github.com/tsy9005)  | O | X | O | △ | △ | O | X | X | | | | |
+| [10246023](https://github.com/tsy9005)  | O | X | O | △ | △ | O | X | X | X | | | |
 | [10246024](https://github.com/k19953014)  | O | O | O | O | O | O | O | O | O | | | |
-| [10246026](https://github.com/tim64195419)  | O | X | O | X | O | △ | X | O | | | | |
-| [10246027](https://github.com/s033742458)  | X | X | X | X | X | X | X | X | | | | |
-| [10246028](https://github.com/ntub10246028)  | O | O | O | O | O | X | X | X | | | | |
+| [10246026](https://github.com/tim64195419)  | O | X | O | X | O | △ | X | O | △ | | | |
+| [10246027](https://github.com/s033742458)  | X | X | X | X | X | X | X | X | X | | | |
+| [10246028](https://github.com/ntub10246028)  | O | O | O | O | O | X | X | X | X | | | |
 | [10246032](https://github.com/lambdaTW)  | O | O | O | O | △  | △  | O | O | O | | | |
-| [10246033](https://github.com/louis0630)  | O | X | O | X | O | O | O | X | | | | |
+| [10246033](https://github.com/louis0630)  | O | X | O | X | O | O | O | X | X | | | |
 | [10246037](https://github.com/withney93) | X | O | O | O | X | X | X | X | O | | | |
 | [10246038](https://github.com/zhongyixuan)  | O | O | O | O | O | O | O | O | O | | | |
 | 10246039  | O | O | O | O | O | O | O | O | O | | | |
-| [10246041](https://github.com/x252566)  | O | X | X | X | X | X | X | X | | | | |
-| [10246047](https://github.com/afresh30508)  | X | X | O | O | O | O | O | O | | | | |
+| [10246041](https://github.com/x252566)  | O | X | X | X | X | X | X | X | X | | | |
+| [10246047](https://github.com/afresh30508)  | X | X | O | O | O | O | O | O | X | | | |
 | [10246048](https://github.com/tyu012206)  | O | O | O | O | O | O | O | O | O | | | |
 | [10246051](https://github.com/jiaxinxin)  | O | O | O | O | O | △ | O | O | O | | | |
 | [10246052](https://github.com/zz5826578)  | O | O | O | O | O | O | △ | △ | O | | | |
 | [10436001](https://github.com/p129894881)  | O | O | O | O | O | △ | O | △ | O | | | |
-| [10436026](https://github.com/artery11348)  | X | O | X | X | X | X | X | X | | | | |
-| [10436027](https://github.com/s033742458)  | X | X | △ | X | X | X | X | △ | | | | |
+| [10436026](https://github.com/artery11348)  | X | O | X | X | X | X | X | X | X | | | |
+| [10436027](https://github.com/s033742458)  | X | X | △ | X | X | X | X | △ | O | | | |
 | [10436028](https://github.com/Hsiao-Chin-Liang)  | O | O | O | O | O | O | O | O | O | | | |
 | [10436031](https://github.com/Lin-Zuyang)  | O | X | O | O | O | O | △ | △ | O | | | |
 | [B1056088](https://github.com/jc-hsu)  | X | X | O | O | O | O | O | O | O | | | |
-| [N1036405](https://github.com/silvia0223y)  | O | O | O | O | O | O | O | △ | | | | |
-| [T1003434](https://github.com/telsaiori)  | X | X | X | O | O | O | X | O | | | | |
+| [N1036405](https://github.com/silvia0223y)  | O | O | O | O | O | O | O | △ | O | | | |
+| [T1003434](https://github.com/telsaiori)  | X | X | X | O | O | O | X | O | O | | | |
