@@ -1,0 +1,16 @@
+namespace :ntub do
+    namespace :homework do
+        desc "上傳作業"
+        task :upload do
+            puts "作業上傳成功!"
+        end
+    end
+end
+
+desc "Email"
+task :sendmail do
+    puts "Email sent!"
+end
+    
+    
+    
